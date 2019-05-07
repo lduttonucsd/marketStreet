@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    font-family: 'Domine', serif;
+    /* background-image: url(http://www.huggable.com.au/wp-content/uploads/2017/07/bricks-background.jpg); */
+    background-color: #f2f2f2;
+    height: 100%;
+}
+
+p {
+    font-family: 'Domine', serif;
+}
+
+.splashInfo {
+    justify-content: center;
+}
+
+.jumbotron {
+  background: transparent;
+   /* justify-content: center; */
+}
+
+.header {
+    text-align: center;
+}
+
+.home-header {
+    margin-top: 10%;
+}
+
+.card {
+    justify-content: center;
+}
+
+.splashh1 {
+    justify-content: center;
+    font-family: 'Modak', cursive;
+
+}
+
+.splashh2 {
+    justify-content: center;
+    font-family: 'Patua One', cursive;
+}
+
